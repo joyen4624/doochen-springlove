@@ -27,7 +27,7 @@ body{
 }
 
 .background{
-background: url("/img/baner.png");
+background: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOounDWIa7RBKZPQvpmNeFoqeDrUoT2YGe_FUg_M8ihBY-jQD4ERCQi9sutRbSXFezp8CLYIptTmL-J50wlumbpm6g05PabjHt_UKBgYMgKwI5ONSLgBrQt5xfQ8eTtpS23A4GUnnQoewimitgeN1bAiw8rkubFIBoDGlAkIWGgbeaXKBOC1VWweYi/s1920/baner.png");
 background-size: cover;
 filter: blur(15px);
 -webkit-filter: blur(15px);
